@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-28T07:40:51.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="reweFB4C0VxBUszpZkH7" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-28T07:44:48.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="wlFRaJUFon7k0blHorCu" version="12.1.7" type="github" pages="1">
   <diagram id="cIxFQv27kr1OFAZyPRKi" name="Page-1">
     <mxGraphModel dx="822" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,8 +189,14 @@
         <mxCell id="Kt7nqfIv5lHJtM08hlu1-144" value="门店可以全部出？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="514" width="120" height="70" as="geometry"/>
         </mxCell>
+        <mxCell id="Kt7nqfIv5lHJtM08hlu1-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kt7nqfIv5lHJtM08hlu1-154" target="Kt7nqfIv5lHJtM08hlu1-174">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="Kt7nqfIv5lHJtM08hlu1-154" value="仓库可以全部出？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="604" width="120" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="Kt7nqfIv5lHJtM08hlu1-174" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="754" width="120" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="Kt7nqfIv5lHJtM08hlu1-146" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kt7nqfIv5lHJtM08hlu1-138" target="Kt7nqfIv5lHJtM08hlu1-144">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -258,6 +264,9 @@
         </mxCell>
         <mxCell id="Kt7nqfIv5lHJtM08hlu1-173" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="767" y="559" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Kt7nqfIv5lHJtM08hlu1-176" value="假设待占用商品数x、门店可用数y、仓库可用数z" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="11" width="300" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
