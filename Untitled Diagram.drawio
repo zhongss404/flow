@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-28T08:00:14.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="UeiLoTjym0pUrTULk_N0" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-28T08:02:07.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="3kmgFcy1VHgVn2MRbgk2" version="12.1.7" type="github" pages="1">
   <diagram id="cIxFQv27kr1OFAZyPRKi" name="Page-1">
     <mxGraphModel dx="951" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -256,7 +256,7 @@
           <mxGeometry x="820.5" y="856" width="87" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Kt7nqfIv5lHJtM08hlu1-173" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="877" y="559" width="40" height="20" as="geometry"/>
+          <mxGeometry x="900" y="730" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Kt7nqfIv5lHJtM08hlu1-176" value="假设待占用商品数x、门店可用数y、仓库可用数z" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="11" width="300" height="20" as="geometry"/>
@@ -310,17 +310,29 @@
         <mxCell id="Kt7nqfIv5lHJtM08hlu1-193" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="797" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="Kt7nqfIv5lHJtM08hlu1-195" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Kt7nqfIv5lHJtM08hlu1-174">
+        <mxCell id="Kt7nqfIv5lHJtM08hlu1-196" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="700" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Kt7nqfIv5lHJtM08hlu1-197" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kt7nqfIv5lHJtM08hlu1-166">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="830" y="720" as="sourcePoint"/>
-            <mxPoint x="80" y="1150" as="targetPoint"/>
+            <mxPoint x="60" y="1200" as="sourcePoint"/>
+            <mxPoint x="170" y="550" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="190" y="720"/>
+              <mxPoint x="930" y="795"/>
+              <mxPoint x="930" y="480"/>
+              <mxPoint x="170" y="480"/>
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kt7nqfIv5lHJtM08hlu1-196" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="700" width="40" height="20" as="geometry"/>
+        <mxCell id="Kt7nqfIv5lHJtM08hlu1-199" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kt7nqfIv5lHJtM08hlu1-174" target="Kt7nqfIv5lHJtM08hlu1-166">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1200" as="sourcePoint"/>
+            <mxPoint x="110" y="1150" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="190" y="720"/>
+              <mxPoint x="829" y="720"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
