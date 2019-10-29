@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-29T09:32:41.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="6PA9_hP2ChtHk--m4Rwe" version="12.1.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-29T09:34:06.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="qpZAk7Q5j6yqP12L2krl" version="12.1.8" type="github" pages="1">
   <diagram id="cIxFQv27kr1OFAZyPRKi" name="Page-1">
     <mxGraphModel dx="974" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -468,6 +468,15 @@
         </mxCell>
         <mxCell id="1ZdFy1A6Q9_2mpHvo3vU-62" value="赠品待清除列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="412" y="1225" width="95" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1ZdFy1A6Q9_2mpHvo3vU-64" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Kt7nqfIv5lHJtM08hlu1-166">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="1235" as="sourcePoint"/>
+            <mxPoint x="110" y="1580" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="829" y="1235"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
