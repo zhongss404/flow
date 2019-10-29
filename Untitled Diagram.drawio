@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-29T09:30:30.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="R8Zbt0NKSNW4YFRcREKS" version="12.1.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-29T09:32:41.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="6PA9_hP2ChtHk--m4Rwe" version="12.1.8" type="github" pages="1">
   <diagram id="cIxFQv27kr1OFAZyPRKi" name="Page-1">
     <mxGraphModel dx="974" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
           <mxGeometry x="501.5" y="627" width="160" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Kt7nqfIv5lHJtM08hlu1-166" value="循环结束？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="901" width="97" height="50" as="geometry"/>
+          <mxGeometry x="780" y="1360" width="97" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="Kt7nqfIv5lHJtM08hlu1-167" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Kt7nqfIv5lHJtM08hlu1-150" target="Kt7nqfIv5lHJtM08hlu1-166" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -242,19 +242,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kt7nqfIv5lHJtM08hlu1-168" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="803.5" y="1067" width="50" height="30" as="geometry"/>
+          <mxGeometry x="803.5" y="1526" width="50" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="Kt7nqfIv5lHJtM08hlu1-169" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Kt7nqfIv5lHJtM08hlu1-166" target="Kt7nqfIv5lHJtM08hlu1-168" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="1487" as="sourcePoint"/>
-            <mxPoint x="240" y="1437" as="targetPoint"/>
+            <mxPoint x="190" y="1946" as="sourcePoint"/>
+            <mxPoint x="240" y="1896" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="Kt7nqfIv5lHJtM08hlu1-170" value="是(提交事务)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="820.5" y="987" width="87" height="20" as="geometry"/>
+          <mxGeometry x="820.5" y="1446" width="87" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Kt7nqfIv5lHJtM08hlu1-173" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="867.5" y="821.5" width="40" height="20" as="geometry"/>
+          <mxGeometry x="864" y="1320" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Kt7nqfIv5lHJtM08hlu1-176" value="假设待占用商品数x（专赠数g）、门店可用数y、仓库可用数z" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="11" width="340" height="20" as="geometry"/>
@@ -322,7 +322,7 @@
         <mxCell id="Kt7nqfIv5lHJtM08hlu1-218" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="746" y="548" as="sourcePoint"/>
-            <mxPoint x="830" y="903" as="targetPoint"/>
+            <mxPoint x="830" y="1360" as="targetPoint"/>
             <Array as="points">
               <mxPoint x="830" y="548"/>
             </Array>
@@ -354,6 +354,7 @@
             <mxPoint x="60" y="1200" as="sourcePoint"/>
             <mxPoint x="180" y="550" as="targetPoint"/>
             <Array as="points">
+              <mxPoint x="900" y="1385"/>
               <mxPoint x="900" y="926"/>
               <mxPoint x="900" y="490"/>
               <mxPoint x="180" y="490"/>
@@ -390,7 +391,7 @@
         <mxCell id="1ZdFy1A6Q9_2mpHvo3vU-37" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1ZdFy1A6Q9_2mpHvo3vU-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="1400" as="sourcePoint"/>
-            <mxPoint x="830" y="900" as="targetPoint"/>
+            <mxPoint x="830" y="1360" as="targetPoint"/>
             <Array as="points">
               <mxPoint x="830" y="822"/>
             </Array>
@@ -466,7 +467,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1ZdFy1A6Q9_2mpHvo3vU-62" value="赠品待清除列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="412" y="1224" width="95" height="20" as="geometry"/>
+          <mxGeometry x="412" y="1225" width="95" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
